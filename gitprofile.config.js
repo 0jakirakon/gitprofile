@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'yasin64035', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -14,7 +14,7 @@ const config = {
     linkedin: 'ariful-alam',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
-    facebook: '',
+    facebook: 'ariful64035',
     instagram: '',
     dribbble: '',
     behance: '',
